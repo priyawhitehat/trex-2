@@ -79,7 +79,7 @@ function setup() {
 
 function draw() {
   
-  background("lightblue");
+  background("cyan");
   //displaying score
   text("Score: "+ score, 500,50);
   
